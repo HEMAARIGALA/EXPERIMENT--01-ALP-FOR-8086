@@ -1,6 +1,6 @@
 # EXPERIMENT 01 ALP FOR FUNDAMENTAL ARITHMETIC AND LOGICAL OPERATIONS
 # Name : Arigala Hema
-# Roll no: 212224230202
+# Roll no: 212224110005
 
 
 ## Aim: To Write and execute ALP for fundamental arithmetic and logical operations
